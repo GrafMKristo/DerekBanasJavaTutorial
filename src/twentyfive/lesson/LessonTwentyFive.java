@@ -75,7 +75,7 @@ public class LessonTwentyFive extends JFrame {
          *
          * @param e
          */
-        @Override
+
         public void actionPerformed(ActionEvent e) {
             if (e.getSource() == button1) {
                 if (defListModel.contains("Black")) infoOnComponent += "Black is here\n";

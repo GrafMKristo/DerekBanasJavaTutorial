@@ -8,7 +8,7 @@ public class LessonTwelve {
     public static void main(String[] args) {
         LinkedList linkedList1 = new LinkedList();
 
-        LinkedList<String> names = new LinkedList<>();
+        LinkedList<String> names = new LinkedList<String>();
 
         names.add("Ahmed Bennan");
         names.add("Said Huinya");
@@ -28,7 +28,7 @@ public class LessonTwelve {
         System.out.println("First index: " + names.get(0));
         System.out.println("Last index: " + names.getLast());
 
-        LinkedList<String> copyNames = new LinkedList<>(names);
+        LinkedList<String> copyNames = new LinkedList<String>(names);
         System.out.println(copyNames);
 
         if (names.contains("Nathan Mark")) {
