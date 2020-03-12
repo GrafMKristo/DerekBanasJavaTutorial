@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a293fb7-244f-45d1-bd78-716ea46b5d68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twentyseven/lesson/LessonTwentySeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twentysix/lesson/LessonTwentySix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DerekBanasJavaTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DerekBanasJavaTutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/eight/lesson/LessonEight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/eighteen/lesson/CheckSystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/eighteen/lesson/LessonEighteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/eighteen/lesson/PerformSystemCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/eleven/lesson/LessonEleven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/fifteen/lesson/Crashable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/fifteen/lesson/Drivable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/fifteen/lesson/LessonFifteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/fifteen/lesson/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/five/lesson/LessonFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/four/lesson/LessonFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/fourteen/lesson/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/fourteen/lesson/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/fourteen/lesson/LessonFourteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/nine/lesson/LessonNine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/nineteen/lesson/LessonNineteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/one/lesson/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/one/lesson/HelloWorld1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/seven/lesson/LessonSeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/seven/lesson/MonsterTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/seventeen/lesson/GetTheMail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/seventeen/lesson/GetTime20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/seventeen/lesson/LessonSeventeen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/six/lesson/LessonSix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/sixteen/lesson/LessonSixteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/ten/lesson/LessonTen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/thirteen/lesson/LessonThirteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/three/lesson/LessonThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/twelve/lesson/LessonTwelve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/twenty/lesson/LessonTwenty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DerekBanasJavaTutorial/two/lesson/JavaInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twelve/lesson/LessonTwelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twelve/lesson/LessonTwelve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twentyfive/lesson/LessonTwentyFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twentyfive/lesson/LessonTwentyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twentyeight/lesson/LessonTwentyEight.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,36 +19,36 @@
     <session id="746204019">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="11" />
+          <entry key="project.open.time.5" value="12" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="53" />
+          <entry key="java" value="54" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="53" />
+          <entry key="JAVA" value="54" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="24440" />
+          <entry key="java" value="25019" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24440" />
+          <entry key="JAVA" value="25019" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="3" />
         </counts>
@@ -97,15 +57,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/twentyseven/lesson/LessonTwentySeven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="94" column="49" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
+            <state relative-caret-position="270">
+              <caret line="30" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/twentyeight/lesson/LessonTwentyEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="docComment;method#LessonTwentyEight#0;class#LessonTwentyEight#0" />
               </folding>
             </state>
           </provider>
@@ -178,6 +151,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/twentysix/lesson/LessonTwentySix.java" />
         <option value="$PROJECT_DIR$/src/twentyseven/lesson/LessonTwentySeven.java" />
+        <option value="$PROJECT_DIR$/src/twentyeight/lesson/LessonTwentyEight.java" />
       </list>
     </option>
   </component>
@@ -218,6 +192,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LessonTwentySeven">
+  <component name="RunManager" selected="Application.LessonTwentyEight">
     <configuration name="LessonEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eight.lesson.LessonEight" />
       <module name="DerekBanasJavaTutorial" />
@@ -271,8 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessonTwentyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twentyfive.lesson.LessonTwentyFive" />
+    <configuration name="LessonTwentyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twentyeight.lesson.LessonTwentyEight" />
       <module name="DerekBanasJavaTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -293,19 +267,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LessonTwentyFive" />
       <item itemvalue="Application.LessonTwelve" />
       <item itemvalue="Application.LessonEight" />
       <item itemvalue="Application.LessonTwentySix" />
       <item itemvalue="Application.LessonTwentySeven" />
+      <item itemvalue="Application.LessonTwentyEight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LessonTwentyEight" />
         <item itemvalue="Application.LessonTwentySeven" />
         <item itemvalue="Application.LessonTwentySix" />
         <item itemvalue="Application.LessonEight" />
         <item itemvalue="Application.LessonTwelve" />
-        <item itemvalue="Application.LessonTwentyFive" />
       </list>
     </recent_temporary>
   </component>
@@ -332,13 +306,13 @@
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15634441" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15861027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4584013" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41435564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -608,10 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#LessonTwentyFour#0;class#LessonTwentyFour#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,10 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1116">
           <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#LessonTwentyFive#0;class#LessonTwentyFive#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,9 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,10 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3">
           <caret line="174" column="11" selection-start-line="174" selection-start-column="11" selection-end-line="174" selection-end-column="11" />
-          <folding>
-            <element signature="e#7212#7213#0" expanded="true" />
-            <element signature="e#7279#7280#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,10 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="195" column="11" selection-start-line="195" selection-start-column="11" selection-end-line="195" selection-end-column="11" />
-          <folding>
-            <element signature="e#7577#7578#0" expanded="true" />
-            <element signature="e#7625#7626#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,11 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="11" column="20" lean-forward="true" selection-start-line="10" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,21 +638,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1006">
           <caret line="630" column="11" selection-start-line="630" selection-start-column="11" selection-end-line="630" selection-end-column="11" />
-          <folding>
-            <element signature="e#23301#23302#0" expanded="true" />
-            <element signature="e#23334#23335#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/twentyseven/lesson/LessonTwentySeven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="94" column="49" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
+        <state relative-caret-position="270">
+          <caret line="30" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twentyeight/lesson/LessonTwentyEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="docComment;method#LessonTwentyEight#0;class#LessonTwentyEight#0" />
           </folding>
         </state>
       </provider>
